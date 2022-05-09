@@ -1,8 +1,9 @@
 ### Hi👋
+<a>
 [![stvsl's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvsl)](https://github.com/stvsl/github-readme-stats)
-<br>
 ![stvsl's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=stvsl&show_icons=true&count_private=true)
-<!--
+</a>
+  <!--
 **stvsl/stvsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
