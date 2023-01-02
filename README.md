@@ -29,7 +29,7 @@ I'm a developer from China
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></a>
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Vue" src=" https://img.shields.io/badge/Vue%20-%900FF7F.svg?logo=vue.js&logoColor=blue"></a>
+    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/vue%20-%900FF7F.svg?logo=vue.js&logoColor=blue"></a>
 </p>
 
 | <a href="https://github.com/stvsl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stvsl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="stvsl's github stats" /></a> | <a href="https://github.com/stvsl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stvsl&layout=compact&theme=buefy&hide_border=true" /></a> |
